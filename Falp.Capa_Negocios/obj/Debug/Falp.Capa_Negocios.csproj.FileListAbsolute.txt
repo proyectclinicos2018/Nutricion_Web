@@ -1,0 +1,193 @@
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+D:\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Carpetas\Desarrollo-progresibo\DesarrolloWeb\Desarrollo\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\19102017\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Versiones Nutricion\Nutricion\Web\Desarrollo\19102017\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Json\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\Nutricion\Web\Ver_08_02_2018\Nut_08_02_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\PROYECTOS_DESARROLLO\Desarrollo_Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Proyectos\C#\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\Samsung\Desktop\16_03_2018\web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\20_03_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\22_03_2018\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Versiones\03_04_2018\Escritorio\Web\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Negocios.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.dll
+C:\Users\emanuel.islas\Desktop\Falp\Sistemas\Web\Nutricion\Nutricion\Falp.Capa_Negocios\obj\Debug\Falp.Capa_Negocios.pdb

@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="General2.master.cs" Inherits="Falp.Oficial.General2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link href="Styles/Estilo.css" rel="stylesheet" type="text/css" />
+           <link href="Styles/Carrusel/carrusel.css" rel="stylesheet" type="text/css" />
+        <script src="Scripts/Carrusel/carrusel.js" type="text/javascript"></script>
+    <link href="Styles/estilo_bos.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/js_bos.js" type="text/javascript"></script>
+     
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+      <asp:ScriptManager ID="s1" runat="server"></asp:ScriptManager>
+    <div class="Contenedor">
+         <div class="Header">
+              <div class="Logo"><img src="Imagenes/Login/falp.png" width="65px" height="65px" />  </div>
+              <div class="Titulo"><h1>Sistema Nutriciòn</h1></div>
+              <div class="Sesion"> 
+                 <asp:Label ID="Label5" runat="server" Text="USUARIO :" ></asp:Label>
+                 <asp:Label ID="nombre" runat="server" ></asp:Label><br />       
+                 <asp:Label ID="Label1" runat="server" Text="SERVIDOR :" > </asp:Label>  <asp:Label ID="txtserver" runat="server"  ></asp:Label><br />
+                         <asp:Label ID="Label10" runat="server" Text="SALIR :" ></asp:Label>  <asp:ImageButton ID="ImageButton3" ImageUrl="~/Imagenes/Botones/cerrar.png" runat="server"   Width="20px" Height="20px" ToolTip="Salir del Sistema" OnClick="salir"/><br />
+              </div>
+         </div>
+      <div class="Contenido" style="width: 100%">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </div>
+    </div>
+    </form>
+</body>
+</html>

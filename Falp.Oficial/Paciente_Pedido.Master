@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Paciente_Pedido.master.cs" Inherits="Falp.Oficial.Paciente_Pedido" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link href="Styles/Estilo.css" rel="stylesheet" type="text/css" />
+        
+    <link href="Styles/estilo_bos.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/js_bos.js" type="text/javascript"></script>
+     
+         
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="s1" runat="server">
+    </asp:ScriptManager>
+    <div class="Contenedor">
+        <div class="Header">
+            <div class="Logo">
+                <img src="Imagenes/Login/falp.png" width="65px" height="65px" />
+            </div>
+            <div class="Titulo">
+                <h1>
+                    Sistema Nutriciòn</h1>
+            </div>
+            <div class="Sesion">
+                <asp:Label ID="Label5" runat="server" Text="USUARIO :"></asp:Label>
+                <asp:Label ID="nombre" runat="server"></asp:Label><br />
+                <asp:Label ID="Label1" runat="server" Text="SERVIDOR :"> </asp:Label>
+                <asp:Label ID="txtserver" runat="server"></asp:Label>
+                <br />
+                <asp:Label ID="Label10" runat="server" Text="SALIR :"></asp:Label>
+                <asp:ImageButton ID="ImageButton3" ImageUrl="~/Imagenes/Botones/cerrar.png" runat="server"
+                    Width="20px" Height="20px" ToolTip="Salir del Sistema" OnClick="salir" />
+            </div>
+        </div>
+        <div class="Col">
+            <div class="Subtitulo">
+                <h4>
+                    Fecha Pedido Fecha:<br />
+                </h4>
+            </div>
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    Informaciòn Paciente</div>
+                <div class="panel-body" style="width: 100%; padding: 3px 3px 3px 15px">
+                    <div class="row" style="padding-right: 3px; padding-left: 3px">
+                        <div class="col-sm-12" style="padding-right: 3px; padding-left: 3px">
+                            <div class="form-group">
+                                <label style="width: 100%">
+                                    Paciente</label>
+                                <asp:TextBox type="text" Font-Size="11px" ID="txtpaciente1" placeholder="txtpaciente" runat="server"
+                                    name="txtpaciente" Style="height: 29px; width: 91%" ReadOnly />
+                            </div>
+                        </div>
+                        <div class="col-sm-12" style="padding-right: 3px; padding-left: 3px">
+                            <div class="form-group">
+                                <label style="width: 100%">
+                                    Servicio</label>
+                                <asp:TextBox type="text" Font-Size="11px"  ID="txtservicio1" placeholder="txtpaciente" Style="height: 29px;
+                                    width: 91%" runat="server" name="txtservicio" ReadOnly />
+                            </div>
+                        </div>
+                        <div class="col-sm-12" style="padding-right: 3px; padding-left: 3px">
+                            <div class="form-group">
+                                <label style="width: 100%">
+                                    Comentario  <asp:Label ID="txttipo"  Font-Size="11px" runat="server"></asp:Label></label>
+                                <asp:TextBox type="text" ID="txtcomentario_comida" placeholder="Observación" TextMode="MultiLine"
+                                    Style="height: 150px;resize:none; width: 91%" runat="server" AutoPostBack="True" OnTextChanged="txtcomentario_comida_TextChanged" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="Contenido">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,678 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+
+body, html 
+{
+    width:100%;
+    background-repeat: no-repeat;
+   background-color:#EAFAF1;  
+    background:#EAFAF1; 
+   
+}
+label
+{
+    color:#3498DB;
+}
+
+.Contenedor
+{
+    width:100%;
+    background:#EAFAF1  ;
+   
+}
+
+.Contenedor .Header
+{
+    width:100%;
+    height:80px;
+    background:#27AE60  ;
+}
+
+.Contenedor .Header .Logo
+{
+    padding:10px  10px 10px 10px;
+    width:20%;
+    height:80px;
+    display:inline-block;
+    float:left;    
+}
+
+.Contenedor .Header .Titulo
+{
+    width:55%;
+    height:80px;
+    display:inline-block;
+    float:left;    
+}
+.Contenedor .Header .Titulo h1
+{
+     padding: 10px 10px 10px 10px;
+    color:White;
+     font-size:35px;
+     text-align:center;
+}
+.Contenedor .Header .Sesion
+{
+    padding: 10px 10px 10px 10px;
+    width:25%;
+    height:70px;
+    display:inline-block;
+    float:left;   
+    padding-top: 10px; 
+    color:White;
+ 
+}
+
+.Contenedor .Col
+{
+    padding: 10px 10px 10px 10px;
+    width:25%;
+    min-height:100%;
+   display:inline-block;
+   float:left; 
+    background:#D4EFDF;
+}
+
+
+.Contenedor .Col .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.Contenedor .Col   .header
+{
+	background-color: #D4E6F1;
+	font-family: Arial;
+	color: #3498DB;
+	height: 22px;
+	text-align: center;
+	font-size: 14px;
+	border: solid 1px #81DAF5;
+}
+
+.Contenedor .Col  .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 11px;
+	color: #3498DB;
+	min-height: 18px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.Contenedor .Col .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	text-align: left;
+}
+.Contenedor .Col .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #3498DB;
+	font-weight: bold;
+	text-align: left;
+}
+.Contenedor .Col .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.Contenedor .Col .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #3498DB;
+}
+.Contenedor .Col .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+	background-color: #c9c9c9;
+	color: #3498DB;
+	padding: 5px 5px 5px 5px;
+}
+.Contenedor .Col .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 27px;
+	text-align: left;
+}
+
+.Contenedor .Col .mydatagrid td
+{
+	padding: 5px;
+}
+.Contenedor .Col .mydatagrid th
+{
+	padding: 5px;
+}
+
+.Contenedor .Col .Subtitulo
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:20px;
+    color:#3498DB;
+    background:#D4E6F1  ;
+     text-align:center;
+}
+
+.Contenedor .Col .Subtitulo_1
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:20px;
+    color:#3498DB;
+    background:#D4E6F1 ;
+     text-align:center;
+}
+.Contenedor .Contenido
+{
+     padding: 10px 10px 10px 10px;
+   width:75%;
+   height:800px;
+   display:inline-block;
+   float:left; 
+    background:#EAFAF1  ;
+}
+.Contenedor .Contenido .panel-heading .pos
+{
+    text-align:center;
+}
+  
+.Contenedor .Contenido .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.Contenedor .Contenido   .header
+{
+	background-color: #D4E6F1;
+	font-family: Arial;
+	color: #3498DB;
+	height: 22px;
+	text-align: center;
+	font-size: 14px;
+	border: solid 1px #81DAF5;
+}
+
+.Contenedor .Contenido  .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 11px;
+	color: #3498DB;
+	min-height: 18px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.Contenedor .Contenido .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #3498DB;
+	text-align: left;
+}
+.Contenedor .Contenido .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+}
+.Contenedor .Contenido .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.Contenedor .Contenido .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #fff;
+}
+.Contenedor .Contenido .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+	background-color: #c9c9c9;
+	color: #000;
+	padding: 5px 5px 5px 5px;
+}
+.Contenedor .Contenido .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 27px;
+	text-align: left;
+}
+
+.Contenedor .Contenido .mydatagrid td
+{
+	padding: 5px;
+}
+.Contenedor .Contenido .mydatagrid th
+{
+	padding: 5px;
+}
+
+.Contenedor .Contenido .Subtitulo
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:24px;
+    color:#3498DB;
+    background:#D4E6F1;
+     text-align:center;
+}
+
+.Contenedor .Contenido .Subtitulo_1
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:15px;
+    color:#3498DB;
+    background:#D4E6F1;
+     text-align: left;
+}
+
+
+   /*Mobile portrait (320x480)*/
+@media only screen     and  (max-width:810px) 
+{
+   body, html 
+{
+    width:100%;
+    height: 100%;
+    background-repeat: no-repeat;
+   background-color:#EAFAF1;  
+}
+
+label
+{
+    color:#3498DB;
+}
+
+.Contenedor
+{
+    width:100%;
+    background:#EAFAF1  ;
+   
+}
+
+.Contenedor .Header
+{
+    width:100%;
+    height:160px;
+    background:#27AE60  ;
+}
+
+.Contenedor .Header .Logo
+{
+    width:20%;
+    height:70px;
+    display:inline-block;
+    float:left;    
+}
+
+.Contenedor .Header .Titulo
+{
+    width:79%;
+    height:70px;
+    display:inline-block;
+    float:left;    
+}
+.Contenedor .Header .Titulo h1
+{
+     padding: 10px 10px 10px 10px;
+    color:White;
+     font-size:35px;
+     text-align:center;
+}
+.Contenedor .Header .Sesion
+{
+    width:100%;
+    height:70px;
+    display:inline-block;
+    float:left;   
+    padding-top: 10px; 
+    color:White;
+ 
+}
+
+.Contenedor .Col
+{
+     padding: 10px 10px 10px 10px;
+   width:100%;
+    min-height:100%;
+   display:inline-block;
+   float:left; 
+    background:#D4EFDF;
+}
+
+.Contenedor .Col .Subtitulo
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:20px;
+    color:#3498DB;
+    background:#D4E6F1  ;
+     text-align:center;
+}
+
+.Contenedor .Col .Subtitulo_1
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:14px;
+    color:#3498DB;
+    background:#D4E6F1 ;
+     text-align:center;
+}
+.Contenedor .Contenido
+{
+     padding: 10px 10px 10px 10px;
+   width:100%;
+   display:inline-block;
+   float:left; 
+    background:#EAFAF1  ;
+}
+
+.Contenedor .Contenido .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.Contenedor .Contenido   .header
+{
+	background-color: #D4E6F1;
+	font-family: Arial;
+	color: #3498DB;
+	height: 22px;
+	text-align: center;
+	font-size: 14px;
+	border: solid 1px #81DAF5;
+}
+
+.Contenedor .Contenido  .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 11px;
+	color: #3498DB;
+	min-height: 18px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.Contenedor .Contenido .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #3498DB;
+	text-align: left;
+}
+.Contenedor .Contenido .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+}
+.Contenedor .Contenido .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.Contenedor .Contenido .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #3498DB;
+}
+.Contenedor .Contenido .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+background-color: #c9c9c9;
+	color: #000;
+	padding: 5px 5px 5px 5px;
+}
+.Contenedor .Contenido .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 27px;
+	text-align: left;
+}
+
+.Contenedor .Contenido .mydatagrid td
+{
+	padding: 5px;
+}
+.Contenedor .Contenido .mydatagrid th
+{
+	padding: 5px;
+}
+
+
+
+.Contenedor .Contenido .Subtitulo
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:24px;
+    color:#3498DB;
+    background:#D4E6F1;
+     text-align:center;
+}
+
+.Contenedor .Contenido .Subtitulo_1
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    font-size:17px;
+    color:#3498DB;
+    background:#D4E6F1;
+     text-align: left;
+}
+
+.error{
+    background-color: #BC1010;
+    border-radius: 4px 4px 4px 4px;
+    color: white;
+    font-weight: bold;
+    margin-left: 16px;
+    margin-top: 6px;
+    padding: 6px 12px;
+    position: absolute;
+}
+ .error:before{
+    border-color: transparent #BC1010 transparent transparent;
+    border-style: solid;
+    border-width: 6px 8px;
+    content: "";
+    display: block;
+    height: 0;
+    left: -16px;
+    position: absolute;
+    top: 8px;
+    width: 0;
+}
+ .result_fail{
+    background: none repeat scroll 0 0 #BC1010;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+}
+ .result_ok{
+    background: none repeat scroll 0 0 #1EA700;
+    border-radius: 20px 20px 20px 20px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+H4
+{
+    font-size:24px;
+
+}
+
+
+/*
+@media only screen and (min-width:550px)     and  (max-width:767px) 
+{
+    
+
+   body, html 
+{
+    width:100%;
+    height: 100%;
+    background-repeat: no-repeat;
+   background-color:#EAFAF1;  
+}
+
+.Contenedor
+{
+    width:100%;
+    background:#EAFAF1  ;
+   
+}
+
+.Contenedor .Header
+{
+    width:100%;
+    height:70px;
+    background:#27AE60  ;
+}
+
+.Contenedor .Header .Logo
+{
+    width:20%;
+    height:70px;
+    display:inline-block;
+    float:left;    
+}
+
+.Contenedor .Header .Titulo
+{
+    width:55%;
+    height:70px;
+    display:inline-block;
+    float:left;    
+}
+.Contenedor .Header .Titulo h1
+{
+     padding: 10px 10px 10px 10px;
+    color:White;
+     font-size:35px;
+     text-align:center;
+}
+.Contenedor .Header .Sesion
+{
+    width:25%;
+    height:70px;
+    display:inline-block;
+    float:left;   
+    padding-top: 10px; 
+    color:White;
+ 
+}
+
+.Contenedor .Col
+{
+     padding: 10px 10px 10px 10px;
+   width:100%;
+    min-height:100%;
+   display:inline-block;
+   float:left; 
+    background:#D4EFDF;
+}
+
+.Contenedor .Col .Subtitulo
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    height:60px;
+    font-size:20px;
+    color:#3498DB;
+    background:#D4E6F1  ;
+     text-align:center;
+}
+
+.Contenedor .Col .Subtitulo_1
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    height:40px;
+    font-size:20px;
+    color:#3498DB;
+    background:#D4E6F1 ;
+     text-align:center;
+}
+.Contenedor .Contenido
+{
+     padding: 10px 10px 10px 10px;
+   width:100%;
+   display:inline-block;
+   float:left; 
+    background:#EAFAF1  ;
+}
+
+.Contenedor .Contenido .Subtitulo
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    height:90px;
+    font-size:24px;
+    color:#3498DB;
+    background:#D4E6F1;
+     text-align:center;
+}
+
+.Contenedor .Contenido .Subtitulo_1
+{
+    padding: 10px 10px 10px 10px;
+    width:100%;
+    height:40px;
+    font-size:20px;
+    color:#3498DB;
+    background:#D4E6F1;
+     text-align: left;
+}
+    
+}*/
